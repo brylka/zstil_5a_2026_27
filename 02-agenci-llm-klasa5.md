@@ -148,8 +148,8 @@ Aplikacja e-commerce. Backend Django + DRF, frontend React + Vite.
 Projekt szkolny – technik programista, klasa 5, przygotowanie do INF.04.
 
 ## Struktura
-- `backend/` – Django 5 + Django REST Framework, baza SQLite
-- `frontend/` – React 18 + Vite, wywołania przez `fetch`
+- `backend/` – Django 6.1 + Django REST Framework, baza SQLite
+- `frontend/` – React + Vite, wywołania przez `fetch`
 - Backend na porcie 8000, frontend na 5173
 
 ## Zasady techniczne

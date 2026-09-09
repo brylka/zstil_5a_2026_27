@@ -32,6 +32,7 @@ ogłoszeniowy, coś swojego) i ciągnie ją do końca.
 |---|---|---|
 | 01 | [Git i GitHub – wstęp](01-git-github-klasa5.md) | repozytorium fullstack, gałęzie, PR-y, konflikty, sekrety, CI |
 | 02 | [Agenci LLM w projekcie fullstack](02-agenci-llm-klasa5.md) | Claude Code, Codex CLI, Gemini CLI, `AGENTS.md`, praca z agentem |
+| 03 | [Django krok po kroku – pierwsze API](03-django-api-krok-po-kroku.md) | projekt i aplikacja, widoki, adresy, JSON, endpointy GET, health i info |
 
 ---
 
@@ -79,8 +80,8 @@ Sprawdź, czy masz:
 
 ```bash
 git --version         # jeśli nie ma: https://git-scm.com/download/win
-python --version      # 3.12+
-node --version        # 20 LTS+
+python --version      # 3.14 (Django 6.1 wymaga minimum 3.12)
+node --version        # 24 LTS
 ```
 
 Konto na GitHubie z **rozsądną nazwą użytkownika** – to zobaczy pracodawca.

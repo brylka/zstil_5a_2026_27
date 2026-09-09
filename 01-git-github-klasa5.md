@@ -366,7 +366,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.14'
       - name: Instalacja zależności
         run: pip install -r backend/requirements.txt
       - name: Testy
@@ -378,7 +378,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
       - name: Instalacja zależności
         run: cd frontend && npm ci
       - name: Build
@@ -399,11 +399,16 @@ fix(frontend): koszyk nie gubi pozycji po odświeżeniu
 docs(readme): instrukcja uruchomienia obu części
 test(api): testy serializera Zamowienie
 refactor(models): wydzielenie klasy bazowej Produkt
-chore(deps): aktualizacja django do 5.1
+chore(deps): aktualizacja django do 6.1
 ```
 
 Typy: `feat`, `fix`, `docs`, `test`, `refactor`, `chore`, `style`.
 Zakres: `api`, `frontend`, `models`, `auth`, `db` – cokolwiek mówi, gdzie to jest.
+
+**Zakres jest opcjonalny.** Podajesz go, gdy zmiana dotyczy jednego wycinka projektu.
+Pomijasz, gdy obejmuje całość – `chore: struktura projektu (backend + frontend)` nie ma
+sensownego zakresu, bo tworzy wszystko naraz. Nie wymyślaj zakresu na siłę, ale też nie
+pomijaj go tam, gdzie coś mówi.
 
 | Dobrze | Źle |
 |---|---|
