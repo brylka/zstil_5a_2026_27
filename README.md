@@ -33,6 +33,7 @@ ogłoszeniowy, coś swojego) i ciągnie ją do końca.
 | 01 | [Git i GitHub – wstęp](01-git-github-klasa5.md) | repozytorium fullstack, gałęzie, PR-y, konflikty, sekrety, CI |
 | 02 | [Agenci LLM w projekcie fullstack](02-agenci-llm-klasa5.md) | Claude Code, Codex CLI, Gemini CLI, `AGENTS.md`, praca z agentem |
 | 03 | [Django krok po kroku – pierwsze API](03-django-api-krok-po-kroku.md) | projekt i aplikacja, widoki, adresy, JSON, endpointy GET, health i info |
+| 04 | [Baza danych i panel administratora](04-baza-danych-i-admin.md) | modele, relacje, migracje, SQLite, ORM, panel admina, fixtures |
 
 ---
 
@@ -87,3 +88,7 @@ node --version        # 24 LTS
 Konto na GitHubie z **rozsądną nazwą użytkownika** – to zobaczy pracodawca.
 Warto od razu złożyć wniosek o [GitHub Student Developer Pack](https://education.github.com/pack)
 (zaświadczenie ze szkoły do wzięcia w sekretariacie).
+
+---
+
+*Opracował: Bartosz Bryniarski*
