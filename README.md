@@ -35,6 +35,7 @@ ogłoszeniowy, coś swojego) i ciągnie ją do końca.
 | 03 | [Django krok po kroku – pierwsze API](03-django-api-krok-po-kroku.md) | projekt i aplikacja, widoki, adresy, JSON, endpointy GET, health i info |
 | 04 | [Baza danych i panel administratora](04-baza-danych-i-admin.md) | modele, relacje, migracje, SQLite, ORM, panel admina, fixtures |
 | 05 | [React – wstęp](05-react-wstep.md) | Vite, komponenty, JSX, propsy, `useState`, listy, dane na sztywno |
+| 06 | [CORS i konfiguracja połączenia](06-cors-i-konfiguracja.md) | Same-Origin Policy, `django-cors-headers`, zmienne środowiskowe po obu stronach |
 
 ---
 
