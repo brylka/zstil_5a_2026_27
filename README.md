@@ -38,6 +38,7 @@ ogłoszeniowy, coś swojego) i ciągnie ją do końca.
 | 06 | [CORS i konfiguracja połączenia](06-cors-i-konfiguracja.md) | Same-Origin Policy, `django-cors-headers`, zmienne środowiskowe po obu stronach |
 | 07 | [React pobierający dane z API](07-react-pobieranie-danych.md) | `useEffect`, `fetch`, stany ładowania i błędu, filtr na serwerze, wyścig żądań |
 | 08 | [Android w Javie – wstęp](08-android-wstep.md) | Android Studio, układy XML, `RecyclerView`, adapter, intencje, dane na sztywno |
+| 09 | [Android pobierający dane z API](09-android-pobieranie-danych.md) | Retrofit, Gson, `10.0.2.2`, cleartext, wątki, stany ładowania i błędu |
 
 ---
 
