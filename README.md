@@ -40,6 +40,7 @@ ogłoszeniowy, coś swojego) i ciągnie ją do końca.
 | 08 | [Android w Javie – wstęp](08-android-wstep.md) | Android Studio, układy XML, `RecyclerView`, adapter, intencje, dane na sztywno |
 | 09 | [Android pobierający dane z API](09-android-pobieranie-danych.md) | Retrofit, Gson, `10.0.2.2`, cleartext, wątki, stany ładowania i błędu |
 | 10 | [Dokumentacja w kodzie](10-dokumentacja-w-kodzie.md) | docstringi, JSDoc, Javadoc, adnotacje typów, `help_text`, komentarze „dlaczego" |
+| 11 | [Dokumentacja projektu](11-dokumentacja-projektu.md) | README, opis API, diagramy Mermaid, instrukcja użytkownika, test czystego klona |
 
 ---
 
