@@ -42,6 +42,7 @@ ogłoszeniowy, coś swojego) i ciągnie ją do końca.
 | 10 | [Dokumentacja w kodzie](10-dokumentacja-w-kodzie.md) | docstringi, JSDoc, Javadoc, adnotacje typów, `help_text`, komentarze „dlaczego" |
 | 11 | [Dokumentacja projektu](11-dokumentacja-projektu.md) | README, opis API, diagramy Mermaid, instrukcja użytkownika, test czystego klona |
 | 12 | [Aplikacja konsolowa i desktopowa](12-konsola-i-desktop.md) | klasy i OOP pod zadanie 1 egzaminu, pole statyczne, tkinter, menu, dialogi, zdarzenia |
+| 13 | [Django REST Framework](13-django-rest-framework.md) | serializery, `ModelViewSet`, router, przeglądalne API, kontrakt odpowiedzi |
 
 ---
 
